@@ -1,0 +1,2 @@
+per fare questo esercizio e' bastato capire cosa facesse ogni passaggio della funzione enc e procedere a ritroso per ottenere la flag:
+spritzCTF{ex1}
